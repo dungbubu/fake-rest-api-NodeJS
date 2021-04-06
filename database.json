@@ -699,6 +699,20 @@
       "email": "dbywater2r@netscape.com",
       "phone": "604-259-1056",
       "birthday": "16/12/1977"
+    },
+    {
+      "id": 101,
+      "name": "Beck",
+      "email": "hkmibeck33@netscape.com",
+      "phone": "435-749-5936",
+      "birthday": "8/11/1996"
+    },
+    {
+      "id": 102,
+      "name": "Hana",
+      "email": "bunmhanama@netscape.com",
+      "phone": "466-227-4795",
+      "birthday": "11/3/1982"
     }
   ]
 }
