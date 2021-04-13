@@ -714,5 +714,48 @@
       "phone": "466-227-4795",
       "birthday": "11/3/1982"
     }
+  ],
+
+  "quesion":[
+    {
+      "question": "Nhân vật nào không có trong Mortal Kombat",
+      "option1": "Liu Kang",
+      "option2": "Sub-Zero",
+      "option3": "Scorpion",
+      "option4": "Dũng Bự",
+      "answer": "Dũng Bự"
+    },
+    {
+      "question": "Nhân vật nào không có trong Avengers",
+      "option1": "Đạt",
+      "option2": "Ironman",
+      "option3": "Captain American",
+      "option4": "Thor",
+      "answer": "Đạt"
+    },
+    {
+      "question": "Nhân vật nào không có trong One Piece",
+      "option1": "Luffy",
+      "option2": "Zorro",
+      "option3": "Huy",
+      "option4": "Sanji",
+      "answer": "Huy"
+    },
+    {
+      "question": "Nhân vật nào không có trong Naruto",
+      "option1": "Naruto",
+      "option2": "Khánh",
+      "option3": "Sasuke",
+      "option4": "Sakura",
+      "answer": "Khánh"
+    },
+    {
+      "question": "Nhân vật nào không có trong Bleach",
+      "option1": "Ichigo",
+      "option2": "Rukia",
+      "option3": "Urahara",
+      "option4": "Minh",
+      "answer": "Minh"
+    }
   ]
 }
