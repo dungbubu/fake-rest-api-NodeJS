@@ -732,7 +732,7 @@
       "id": 2,
       "question": "Nhân vật nào không có trong Avengers",
       "option": [
-        "Hiếu",
+        "Đạt",
         "Ironman",
         "Captain American",
         "Thor"
@@ -768,9 +768,9 @@
         "Ichigo",
         "Rukia",
         "Urahara",
-        "Minh"
+        "Hiếu"
       ],
-      "answer": "Minh"
+      "answer": "Hiếu"
     }
   ]
 }
